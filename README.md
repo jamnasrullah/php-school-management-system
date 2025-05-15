@@ -1,1 +1,1 @@
-# php-school-management-system
+php-school-management-system
