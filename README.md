@@ -17,12 +17,16 @@ This project helps manage students, teachers, courses, and school administration
 
 ## Technologies Used
 
+- Laravel
 - PHP
 - MySQL
+- Blade Template Engine
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
+- Laravel Authentication
+- Eloquent ORM
 
 
 ## Installation Guide
